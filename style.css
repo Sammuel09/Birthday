@@ -1,0 +1,31 @@
+* {
+    outline: 1px solid red;
+}
+
+
+.dimensions {
+    height: 400px;
+}
+
+.main-banner-bg {
+    background-color: #00ff00;
+}
+
+.main-banner-text {
+    font-family: Georgia, serif;
+    font-size: 24px;
+}
+
+.banner-pic {
+    position: relative;
+    top: 25px;
+}
+
+.banner-info {
+    position: relative;
+    top: 75px;
+}
+
+.img-circle {
+    border-radius: 50%
+}
